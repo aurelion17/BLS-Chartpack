@@ -1,6 +1,6 @@
 ---
 title: "Bank Lending Survey Chartpack"
-author: "Aurelio Nocera & Sorcha Foster"
+author: "Aurelio Nocera"
 date: "`r format(Sys.time(),'%d %B %Y')`"
 output:
   html_document:
